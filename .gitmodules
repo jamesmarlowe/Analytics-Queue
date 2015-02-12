@@ -1,0 +1,3 @@
+[submodule "Curl-Queue"]
+	path = Curl-Queue
+	url = git@github.com:jamesmarlowe/Curl-Queue.git
